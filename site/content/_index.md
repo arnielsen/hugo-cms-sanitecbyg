@@ -1,7 +1,7 @@
 ---
 title: Velkommen til Sanitec Aps
 subtitle: Vi glæder os til at arbejde med dit projekt
-image: /img/home-jumbotron.jpg
+image: /img/architecture-blue-build-162557.jpg
 blurb:
   heading: Kontakt
   text: Kontakt os for et uforpligtende tilbud.
